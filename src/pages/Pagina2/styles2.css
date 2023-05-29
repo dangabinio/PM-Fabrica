@@ -1,0 +1,29 @@
+.row-acao{
+    text-align: center;
+    
+    
+}
+
+.pagina2{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+#table-id{
+    width: 800px;
+    
+    position: relative;
+    left: -15%;
+    margin-top: 30px;
+}
+
+.registro{
+    position: relative;
+    left: -15%;
+    margin-top: 100px;
+}
+#table-id thead{
+    background-color: black;
+    color:white
+}

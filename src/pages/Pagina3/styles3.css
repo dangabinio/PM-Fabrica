@@ -1,0 +1,38 @@
+.tela3{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+.cadastrar-texto{
+    display: flex;
+    gap: 30px;
+}
+
+.nivel{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.tela3 input {
+    border: none;
+    width: 200px;
+    height: 50px;
+    background-color: #d9d9d9;
+    border-radius: 4px;
+}
+
+.tela3 select{
+    border: none;
+    width: 200px;
+    height: 50px;
+    background-color: #d9d9d9;
+    border-radius: 4px;
+   
+}
+
+.nivel select{
+    width: 430px;
+    margin-bottom: 15px;
+}

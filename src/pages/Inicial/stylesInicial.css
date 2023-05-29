@@ -1,0 +1,51 @@
+.tela{
+  position: absolute;
+  top: 10%;
+  left: 35%;
+}
+
+.cadastrar{
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.cadastrar label{
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+.cadastrar input{
+  border: none;
+  width: 600px;
+  height: 50px;
+  background-color: #d9d9d9;
+  border-radius: 4px;
+}
+
+#menu1{
+  width: 600px;
+  margin: 0px;
+  position: relative;
+  left: 0%;  
+}
+
+.btn-buscar{
+  background: #00D154;
+    font-weight: 700;
+    padding: 16px;
+    border-radius: 20px;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    left: 35%;    
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.select h2{
+  text-align: center;
+}
+
